@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -121.3153,
+    "lat": 44.0582
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21,
+    "feels_like": 20.36,
+    "temp_min": 18.88,
+    "temp_max": 22.7,
+    "pressure": 1011,
+    "humidity": 46
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.24,
+    "deg": 342,
+    "gust": 3.58
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1654201239,
+  "sys": {
+    "type": 2,
+    "id": 2002278,
+    "country": "US",
+    "sunrise": 1654172690,
+    "sunset": 1654227724
+  },
+  "timezone": -25200,
+  "id": 5713587,
+  "name": "Bend",
+  "cod": 200
+}
